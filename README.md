@@ -1,1 +1,1 @@
-** <i>Project to be updated ... </i>** 
+<i>Project to be updated ... </i> 
